@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/vkontakte-64x64.png</file>
+        <file>icon/next.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/play.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/download.png</file>
+        <file>icon/reload.png</file>
+        <file>icon/save.png</file>
+        <file>icon/tools2.png</file>
+        <file>icon/vk_music_icon.png</file>
+        <file>icon/cassette-2.ico</file>
+        <file>icon/cassette-2-icon.png</file>
+        <file>icon/logo_vk.png</file>
+        <file>icon/repeat_disabled.png</file>
+        <file>icon/repeat.png</file>
+        <file>icon/showText.png</file>
+        <file>icon/megaphone.png</file>
+        <file>icon/megaphone_disabled.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+    </qresource>
+</RCC>
