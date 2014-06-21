@@ -6,12 +6,10 @@
 #include <QStyleFactory>
 #include <QStyle>
 #include <QTest>
-#include "test_project.h"
 
-//dsfsdfds
 int main(int argc, char** argv)
 {
-    /*
+
     QApplication app(argc, argv);
     QCoreApplication::setApplicationName("VK Music Player");
     QCoreApplication::setApplicationVersion("0.3.1");
@@ -23,12 +21,6 @@ int main(int argc, char** argv)
     VkMainWindow.show();
 
     return app.exec();
-    */
-
-    freopen("testing.log", "w", stdout);
-    QApplication a(argc, argv);
-    QTest::qExec(new test_project, argc, argv);
-    return 0;
 }
 
 
