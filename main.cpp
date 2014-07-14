@@ -5,7 +5,6 @@
 #include<QTextCodec>
 #include <QStyleFactory>
 #include <QStyle>
-#include <QTest>
 
 int main(int argc, char** argv)
 {
