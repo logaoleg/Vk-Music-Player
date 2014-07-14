@@ -3,8 +3,8 @@
 #include "mainwindow.h"
 #include <QObject>
 #include<QTextCodec>
-#include <QStyleFactory>
-#include <QSt123123yle>
+#include <QStyleFactory> 
+#include <QStyle>
 
 int main(int argc, char** argv)
 {
