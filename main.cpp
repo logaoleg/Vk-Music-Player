@@ -4,7 +4,8 @@
 #include <QObject>
 #include<QTextCodec>
 #include <QStyleFactory>
-#include <QSt4yle>
+//bla bla 
+#include <QStyle>
 
 int main(int argc, char** argv)
 {
